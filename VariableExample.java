@@ -5,8 +5,8 @@ public class VariableExample {
 		byte b1,b2;
 		b1=30;
 		b2=70;
-		int result = b1+b2;
-		//System.out.println(b1 + " + " + b2 + " = " + result);		
+		int sum = b1+b2;
+		//System.out.println(b1 + " + " + b2 + " = " + sum);		
 
 		byte b3 = 126;
 		for( int i=0; i<100; i++){
